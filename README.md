@@ -1,7 +1,10 @@
 # Welcome to my Github account, I am Haileab Tesfaye.
 ##### I am a software engineering student at Addis Ababa Science and Technology University, and it's going great.
 
-Currently, I'm working on [[java_bank_mini_app](https://github.com/HaileabT/java_bank_mini_app.git)] and [IP_groupProject]. Both of them are school projects.
+Currently, I'm working on [java_bank_mini_app](https://github.com/HaileabT/java_bank_mini_app.git) and [IP_groupProject](https://github.com/HaileabT/IP_groupProject.git). Both of them are school projects.
+
+- I'm good at
+  [javascript]
 <!--
 **HaileabT/HaileabT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
