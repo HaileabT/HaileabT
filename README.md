@@ -3,7 +3,7 @@
 ## Haileab here
 ##### I am a software engineering student at Addis Ababa Science and Technology University, and it's going great.
 
-### - Also currently learning
+### - Currently learning
 <img src="https://github.com/HaileabT/HaileabT/assets/99401380/0adf6f2b-30bc-4b57-adf4-142a1e0a8808" width="50px"> <img src="https://github.com/HaileabT/HaileabT/assets/99401380/36a88072-7e40-4809-a251-7c278af44029" width="50px"> <img src="https://github.com/HaileabT/HaileabT/assets/99401380/62a0d1c2-041d-490f-aa58-c27ad376b749" width="50px">
 
 ### - I'm good at
