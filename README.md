@@ -1,4 +1,4 @@
-##### It's me, Haileab Tesfaye. A backend dev software engineer.
+##### It's me, Haileab Tesfaye. A backend dev software engineer with full stack experience with Nodejs and Nuxt 3.
 
 
 <!--
