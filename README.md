@@ -1,9 +1,9 @@
 ##### It's me, Haileab Tesfaye. A backend dev software engineer with full stack experience with Nodejs and Nuxt 3.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=habtesh-beki&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=habtesh-beki&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=habtesh-beki&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=haileabt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=haileabt&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=haileabt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!--
