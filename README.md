@@ -1,4 +1,4 @@
-##### It's me, Haileab Tesfaye. A backend dev software engineer with full stack experience with Nodejs and Nuxt 3.
+##### It's me, Haileab Tesfaye. A Node.js (currently) backend software engineer with full stack experience with Nuxt 3.
 
 ###### Here are technologies I've worked with
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
