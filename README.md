@@ -1,9 +1,9 @@
 ##### It's me, Haileab Tesfaye. A backend dev software engineer with full stack experience with Nodejs and Nuxt 3.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Nuxt 3](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Websockets](https://img.shields.io/badge/Websockets-010101?style=for-the-badge&logo=websocket&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Telegram%20bots)
+![Vue 3](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=haileabt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
