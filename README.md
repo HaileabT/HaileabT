@@ -1,8 +1,10 @@
 ##### It's me, Haileab Tesfaye. A backend dev software engineer with full stack experience with Nodejs and Nuxt 3.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=Apollo-GraphQL&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![Nuxt 3](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Websockets](https://img.shields.io/badge/Websockets-010101?style=for-the-badge&logo=websocket&logoColor=white)
+![SocketIO](https://img.shields.io/badge/Socket.io-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Vue 3](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 # 📊 GitHub Stats:
