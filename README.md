@@ -11,7 +11,7 @@
 ![Tailwindcss](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=haileabt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![]([![Haileab's GitHub stats](https://github-readme-stats.vercel.app/api?username=haileabt)](https://github.com/anuraghazra/readme-components))<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haileabt&theme=dark&hide_border=false)<br/>
 
 
