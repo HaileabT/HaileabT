@@ -1,4 +1,4 @@
-##### It's me, Haileab Tesfaye. A Node.js (currently) backend software engineer with full stack experience with Nuxt 3.
+##### It's me, Haileab Tesfaye. A Node.js and Next.js fullstack developer.
 
 # 📊 GitHub Stats:
 ![Haileab's GitHub stats](https://github-readme-stats.vercel.app/api?username=haileabt&theme=dark&hide_border=true)<br/>
